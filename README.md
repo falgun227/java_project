@@ -1,1 +1,1 @@
-# java_project
+# coupon code generator
